@@ -10,10 +10,10 @@
 		ACF1F378207CB3B4006CFBFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF1F377207CB3B4006CFBFB /* AppDelegate.swift */; };
 		ACF1F37A207CB3B4006CFBFB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF1F379207CB3B4006CFBFB /* ViewController.swift */; };
 		ACF1F37D207CB3B4006CFBFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACF1F37B207CB3B4006CFBFB /* Main.storyboard */; };
-		ACF1F37F207CB3B4006CFBFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACF1F37E207CB3B4006CFBFB /* Assets.xcassets */; };
 		ACF1F382207CB3B4006CFBFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACF1F380207CB3B4006CFBFB /* LaunchScreen.storyboard */; };
 		ACF1F38D207CB3B4006CFBFB /* iosapp1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF1F38C207CB3B4006CFBFB /* iosapp1Tests.swift */; };
 		ACF1F398207CB3B4006CFBFB /* iosapp1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF1F397207CB3B4006CFBFB /* iosapp1UITests.swift */; };
+		C3064CEF207E5CEE0034923F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3064CEE207E5CEB0034923F /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +38,6 @@
 		ACF1F377207CB3B4006CFBFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACF1F379207CB3B4006CFBFB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		ACF1F37C207CB3B4006CFBFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		ACF1F37E207CB3B4006CFBFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACF1F381207CB3B4006CFBFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACF1F383207CB3B4006CFBFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ACF1F388207CB3B4006CFBFB /* iosapp1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosapp1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,6 +46,7 @@
 		ACF1F393207CB3B4006CFBFB /* iosapp1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosapp1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACF1F397207CB3B4006CFBFB /* iosapp1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosapp1UITests.swift; sourceTree = "<group>"; };
 		ACF1F399207CB3B4006CFBFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3064CEE207E5CEB0034923F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 				ACF1F377207CB3B4006CFBFB /* AppDelegate.swift */,
 				ACF1F379207CB3B4006CFBFB /* ViewController.swift */,
 				ACF1F37B207CB3B4006CFBFB /* Main.storyboard */,
-				ACF1F37E207CB3B4006CFBFB /* Assets.xcassets */,
+				C3064CEE207E5CEB0034923F /* Assets.xcassets */,
 				ACF1F380207CB3B4006CFBFB /* LaunchScreen.storyboard */,
 				ACF1F383207CB3B4006CFBFB /* Info.plist */,
 			);
@@ -233,7 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACF1F382207CB3B4006CFBFB /* LaunchScreen.storyboard in Resources */,
-				ACF1F37F207CB3B4006CFBFB /* Assets.xcassets in Resources */,
+				C3064CEF207E5CEE0034923F /* Assets.xcassets in Resources */,
 				ACF1F37D207CB3B4006CFBFB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
